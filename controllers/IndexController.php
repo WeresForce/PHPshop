@@ -1,2 +1,5 @@
 <?php
-abs()
+
+function testAction(){
+    echo 'IndexController.php -> testAction';
+}
